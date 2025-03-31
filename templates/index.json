@@ -49,6 +49,34 @@
         "show_text_below": false
       }
     },
+    "featured_collection_Ag6eLX": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products_to_show": 4,
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "slideshow_RAPFyW": {
       "type": "slideshow",
       "blocks": {
@@ -57,9 +85,9 @@
           "settings": {
             "image": "shopify://shop_images/pexels-n-voitkevich-8939267.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Image slide",
+            "heading": "Home & Living",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "Elevate Your Home Decor with our Exclusive Collection of Luxurious Essentials.",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
@@ -75,11 +103,11 @@
           "settings": {
             "image": "shopify://shop_images/pexels-n-voitkevich-6214134.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Image slide",
+            "heading": "Home & Living",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "subheading": "Transform Your Home Into a Cozy Oasis: Where Living Becomes an Adventure!",
+            "button_label": "View More",
+            "link": "shopify://collections/all",
             "button_style_secondary": false,
             "show_text_box": true,
             "box_align": "middle-center",
@@ -140,6 +168,7 @@
   },
   "order": [
     "image_banner",
+    "featured_collection_Ag6eLX",
     "slideshow_RAPFyW",
     "video_KHGcFk"
   ]
