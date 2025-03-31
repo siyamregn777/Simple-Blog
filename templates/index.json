@@ -52,7 +52,7 @@
     "featured_collection_Ag6eLX": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "frontpage",
         "products_to_show": 4,
         "title": "Featured collection",
         "heading_size": "h1",
