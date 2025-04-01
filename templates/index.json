@@ -151,20 +151,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "video_KHGcFk": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https://www.youtube.com/watch?v=iSJYpOuvfvU",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "custom_liquid_UwxbiN": {
       "type": "custom-liquid",
       "settings": {
@@ -179,7 +165,6 @@
     "image_banner",
     "featured_collection_Ag6eLX",
     "slideshow_RAPFyW",
-    "video_KHGcFk",
     "custom_liquid_UwxbiN"
   ]
 }
