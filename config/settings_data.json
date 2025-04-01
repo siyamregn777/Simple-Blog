@@ -392,9 +392,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      ".variant-item__old-price {display: inline !important; text-decoration: line-through; color: #999; margin-right: 8px;}",
-      ".price__compare {display: block; margin-bottom: 8px;}"
-    ]
+    "custom_css": []
   }
 }
